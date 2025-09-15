@@ -1,0 +1,40 @@
+# Blender MTL File: 'crossbow.blend'
+# Material Count: 3
+
+newmtl Madeira
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.031063 0.014649 0.005699
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Substance Painter\\Crossbow Texture\\4K\\Madeira\\crossbow_low_Madeira_BaseColor.png
+map_Ns Substance Painter\\Crossbow Texture\\4K\\Madeira\\crossbow_low_Madeira_Roughness.png
+refl Substance Painter\\Crossbow Texture\\4K\\Madeira\\crossbow_low_Madeira_Metallic.png
+
+newmtl Metal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.358840 0.358840 0.358840
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Substance Painter\\Crossbow Texture\\4K\\Metal\\crossbow_low_Metal_BaseColor.png
+map_Ns Substance Painter\\Crossbow Texture\\4K\\Metal\\crossbow_low_Metal_Roughness.png
+refl Substance Painter\\Crossbow Texture\\4K\\Metal\\crossbow_low_Metal_Metallic.png
+
+newmtl Tecidos
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.057802 0.023735 0.010677
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Substance Painter\\Crossbow Texture\\4K\\Tecidos\\crossbow_low_Tecidos_BaseColor.png
+map_Ns Substance Painter\\Crossbow Texture\\4K\\Tecidos\\crossbow_low_Tecidos_Roughness.png
