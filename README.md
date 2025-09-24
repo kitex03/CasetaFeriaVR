@@ -43,7 +43,7 @@ Fue desarrollado junto a un compañero, poniendo en práctica **trabajo en equip
 ## 👥 Autores  
 
 - [Enrique Morcillo Martínez](https://github.com/kitex03)  
-- [Alvaro Franco](https://github.com/compañero)  
+- [Alvaro Franco]
 
 ---
 
